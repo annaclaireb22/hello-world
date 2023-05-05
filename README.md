@@ -5,4 +5,4 @@ If I had some code for an app, I could add it here for users to learn.
 
 About the authors:
 
-AnnaClaire does not know what this is.
+AnnaClaire Bannister
